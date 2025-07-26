@@ -42,3 +42,15 @@ chmod u=rwx,g=,o= drafts
 - [📂 Current File Permissions](https://docs.google.com/document/d/19yWs_jiX5N2nlXmkal4Q6ZCBks1D_hvwmrpe8nAe21A/edit?usp=sharing) – Baseline audit report before changes were applied
 
 
+### 📸 Screenshots Included
+
+To support the permission changes and file audits performed in this project, all relevant screenshots have been uploaded to this repository. These images document the actual commands executed and the resulting file and directory permission states.
+
+#### 📂 Screenshot Highlights
+
+- Initial permissions listing using `ls -la`
+- Permission changes using `chmod`
+- Confirmation of updated permissions after execution
+- Secure configuration for hidden files and confidential directories
+
+
